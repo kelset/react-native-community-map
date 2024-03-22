@@ -81,7 +81,7 @@ _(links are to the tags “react-native”)_
 - [React Day Berlin](https://reactday.berlin/)
 - [React Conf Brazil](https://reactconf.com.br/)
 
-# 📹 youtube channels
+# 📹 Youtube Channels
 
 - [Callstack Engineers](https://www.youtube.com/c/CallstackEngineers) _(talks from RNEU conf are here)_
 - [InfiniteRed](https://www.youtube.com/c/InfiniteRed) _(talks from ChainReact conf are here, plus other stuff)_
@@ -106,7 +106,7 @@ _(links are to the tags “react-native”)_
 - [Codevolution](https://www.youtube.com/@Codevolution)
 - [Reactiive](https://www.youtube.com/@Reactiive/featured)
 
-# 🌍 open source apps
+# 🌍 Open Source Apps
 
 - https://github.com/YajanaRao/Serenity/tree/develop/apps/mobile
 - https://github.com/rainbow-me/rainbow
@@ -133,7 +133,7 @@ _(links are to the tags “react-native”)_
 - https://github.com/kwsong0113/imagine
 - https://github.com/bndkt/sharemystack
 
-# 💬 discords and slacks
+# 💬 Discords And Slacks
 
 - [Reactiflux](https://www.reactiflux.com/)
 - [Expo Developers’ Discord server](https://chat.expo.dev/)
@@ -142,7 +142,7 @@ _(links are to the tags “react-native”)_
 - [Callstack.io's Discord server](https://discordapp.com/invite/zwR2Cdh)
 - [Margelo Community Discord](https://discord.gg/6CSHz2qAvA)
 
-# 📚 learning resources
+# 📚 Learning Resources
 
 - [React docs](https://react.dev/)
 - [React Native official docs](https://reactnative.dev/)
@@ -159,14 +159,14 @@ _(links are to the tags “react-native”)_
   - Stephen Grider’s Udemy’s [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
   - Simon Grimm’s [GalaxyDevs](https://galaxies.dev/)
 
-# 🗂 linkedin groups
+# 🗂 Linkedin Groups
 
 _(does anyone actually use them to connect with other devs? if you have a good experience with these, [let me know](https://github.com/kelset/kelset/issues/3) - from my experience they are quite full of spam)_
 
 - [React Native](https://www.linkedin.com/groups/8364861/)
 - [React Developers - ReactJS & React Native Professional Development Mastermind](https://www.linkedin.com/groups/6519652/)
 
-# 🥽 “everything else” section
+# 🥽Everything Else Section
 
 - [Meetup’s page of events tagged “react-native”](https://www.meetup.com/topics/react-native/)
 - [Oscar Franco’s React Native Hitchhiker’s Guide](https://www.notion.so/bf0aa5ee5fd64aed8cdd776cba6f9b97?pvs=21)
