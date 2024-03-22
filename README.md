@@ -11,6 +11,21 @@
 <img alt="follow me on twitter" src="https://img.shields.io/twitter/follow/kelset?label=Follow%20%40kelset&style=social" />
 </a>
 
+- [🐦 Twitter](#-twitter)
+  - [Twitter Communities](#twitter-communities)
+- [📨 Newsletters](#-newsletters)
+- [🕳 Subreddits](#-subreddits)
+- [🎙 Podcasts](#-podcasts)
+- [✍️ Blog Platforms](#️-blog-platforms)
+- [🧑‍🏫 Conferences](#-conferences)
+  - [Non-RN Specific Confs](#non-rn-specific-confs)
+- [📹 Youtube Channels](#-youtube-channels)
+- [🌍 Open Source Apps](#-open-source-apps)
+- [💬 Discords And Slacks](#-discords-and-slacks)
+- [📚 Learning Resources](#-learning-resources)
+- [🗂 Linkedin Groups](#-linkedin-groups)
+- [🥽Everything Else Section](#everything-else-section)
+
 # 🐦 Twitter
 
 - [Reactjs](https://twitter.com/reactjs)
