@@ -23,6 +23,7 @@
 - [🌍 Open Source Apps](#-open-source-apps)
 - [💬 Discords And Slacks](#-discords-and-slacks)
 - [📚 Learning Resources](#-learning-resources)
+  - [👨‍🏫 Courses \& learning platforms](#-courses--learning-platforms)
 - [🗂 Linkedin Groups](#-linkedin-groups)
 - [🥽Everything Else Section](#everything-else-section)
 
@@ -74,7 +75,6 @@ _(links are to the tags “react-native”)_
 
 # 🧑‍🏫 Conferences
 
-- [React Native Europe](https://www.react-native.eu/)
 - [Chain React Conf](https://cr.infinite.red/)
 - [AppJS Conf](https://appjs.co/)
 - [React Native Heroes](https://reactnativeheroes.com)
@@ -82,6 +82,7 @@ _(links are to the tags “react-native”)_
 
 #### Non-RN Specific Confs
 
+- [React Universe Conf](https://www.reactuniverseconf.com/) (formerly [React Native Europe](https://www.react-native.eu/))
 - [ReactJS Conf](https://conf.reactjs.org/)
 - [React Summit](https://reactsummit.com/)
 - [React Advanced](https://reactadvanced.com/)
@@ -163,16 +164,18 @@ _(links are to the tags “react-native”)_
 - [React Native official docs](https://reactnative.dev/)
 - [Expo official docs](https://docs.expo.dev/)
 - [React Native Buddy - a custom GPT to help you use React Native well](https://chat.openai.com/g/g-S9qpp72cb-react-native-buddy)
-- **courses & learning platforms 👨‍🏫**
-  - codecademy’s [Learn React Native (in partnership with Expo)](https://www.codecademy.com/learn/learn-react-native)
-  - coursera’s [React Native course by Meta Staff](https://www.coursera.org/learn/react-native-course)
-  - freeCodeCamp.org’s [React Native Course – Android and iOS App Development](https://www.youtube.com/watch?v=obH0Po_RdWk) (Apr’23)
-  - JavaScript Mastery’s [Build and Deploy a React Native App](https://www.youtube.com/watch?v=mJ3bGvy0WAY) (Mar’23)
-  - Catalin Miron’s [AnimateReactNative](https://www.animatereactnative.com/)
-  - William Candillon’s [Start React Native](https://start-react-native.dev/)
-  - Maximilian Schwarzmüller’s Udemy’s [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/?start=0)
-  - Stephen Grider’s Udemy’s [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
-  - Simon Grimm’s [GalaxyDevs](https://galaxies.dev/)
+
+#### 👨‍🏫 Courses & learning platforms
+
+- codecademy’s [Learn React Native (in partnership with Expo)](https://www.codecademy.com/learn/learn-react-native)
+- coursera’s [React Native course by Meta Staff](https://www.coursera.org/learn/react-native-course)
+- freeCodeCamp.org’s [React Native Course – Android and iOS App Development](https://www.youtube.com/watch?v=obH0Po_RdWk) (Apr’23)
+- JavaScript Mastery’s [Build and Deploy a React Native App](https://www.youtube.com/watch?v=mJ3bGvy0WAY) (Mar’23)
+- Catalin Miron’s [AnimateReactNative](https://www.animatereactnative.com/)
+- William Candillon’s [Start React Native](https://start-react-native.dev/)
+- Maximilian Schwarzmüller’s Udemy’s [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/?start=0)
+- Stephen Grider’s Udemy’s [The Complete React Native + Hooks Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
+- Simon Grimm’s [GalaxyDevs](https://galaxies.dev/)
 
 # 🗂 Linkedin Groups
 
