@@ -12,13 +12,13 @@
 </a>
 
 - [🐦 Twitter](#-twitter)
-  - [Twitter Communities](#twitter-communities)
+  - [🎗️ Twitter Communities](#️-twitter-communities)
 - [📨 Newsletters](#-newsletters)
 - [🕳 Subreddits](#-subreddits)
 - [🎙 Podcasts](#-podcasts)
 - [✍️ Blog Platforms](#️-blog-platforms)
 - [🧑‍🏫 Conferences](#-conferences)
-  - [Non-RN Specific Confs](#non-rn-specific-confs)
+  - [⚛️ Non-RN Specific Confs](#️-non-rn-specific-confs)
 - [📹 Youtube Channels](#-youtube-channels)
 - [🌍 Open Source Apps](#-open-source-apps)
 - [💬 Discords And Slacks](#-discords-and-slacks)
@@ -36,7 +36,7 @@
 
 _There are many more accounts worth mentioning, so the sake of convenience I made a 👉[Twitter list](https://twitter.com/i/lists/1542846324055281664) 👈 you can simply follow._
 
-#### Twitter Communities
+#### 🎗️ Twitter Communities
 
 - [React Native News & Tips](https://twitter.com/i/communities/1509407040095068166) (from InfiniteRed)
 - [React Native](https://twitter.com/i/communities/1488958864364032009) (from RNNow)
@@ -80,7 +80,7 @@ _(links are to the tags “react-native”)_
 - [React Native Heroes](https://reactnativeheroes.com)
 - [React Native Connection](https://reactnativeconnection.io/)
 
-#### Non-RN Specific Confs
+#### ⚛️ Non-RN Specific Confs
 
 - [React Universe Conf](https://www.reactuniverseconf.com/) (formerly [React Native Europe](https://www.react-native.eu/))
 - [ReactJS Conf](https://conf.reactjs.org/)
@@ -124,30 +124,30 @@ _(links are to the tags “react-native”)_
 
 # 🌍 Open Source Apps
 
-- https://github.com/YajanaRao/Serenity/tree/develop/apps/mobile
-- https://github.com/rainbow-me/rainbow
-- https://github.com/heylinda/heylinda-app
-- https://github.com/mattermost/mattermost-mobile
-- https://gitlab.com/staltz/manyverse
-- https://github.com/CommE2E/comm/tree/master/native
-- https://github.com/pagopa/io-app
-- https://github.com/kolplattformen/skolplattformen
-- https://github.com/standardnotes/app/tree/main/packages/mobile
-- https://github.com/discourse/DiscourseMobile
-- https://github.com/guytepper/better-rail
-- https://github.com/RocketChat/Rocket.Chat.ReactNative/
-- https://github.com/jgalat/remote-app
-- [https://github.com/tooot-app/app](https://github.com/tooot-app/app/tree/main)
-- https://github.com/Expensify/App
-- https://github.com/status-im/status-mobile
-- https://github.com/streetwriters/notesnook/tree/master/apps/mobile
-- https://github.com/bluesky-social/social-app
-- https://github.com/4TWIGGERS/realremote-front
-- https://github.com/inaturalist/iNaturalistReactNative
-- https://github.com/showtime-xyz/showtime-frontend
-- https://github.com/shootismoke/mobile-app
-- https://github.com/kwsong0113/imagine
-- https://github.com/bndkt/sharemystack
+- YajanaRao's Serenity [mobile](https://github.com/YajanaRao/Serenity/tree/develop/apps/mobile)
+- Rainbow-me's [rainbow](https://github.com/rainbow-me/rainbow)
+- Heylinda's [heylinda-app](https://github.com/heylinda/heylinda-app)
+- Mattermost's [mattermost-mobile](https://github.com/mattermost/mattermost-mobile)
+- Staltz's [manyverse](https://gitlab.com/staltz/manyverse)
+- CommE2E's [native](https://github.com/CommE2E/comm/tree/master/native)
+- Pagopa's [io-app](https://github.com/pagopa/io-app)
+- Kolplattformen's [skolplattformen](https://github.com/kolplattformen/skolplattformen)
+- StandardNotes's [mobile](https://github.com/standardnotes/app/tree/main/packages/mobile)
+- Discourse's [DiscourseMobile](https://github.com/discourse/DiscourseMobile)
+- Guytepper's [better-rail](https://github.com/guytepper/better-rail)
+- RocketChat's [mobile app](https://github.com/RocketChat/Rocket.Chat.ReactNative/)
+- Jgalat's [remote-app](https://github.com/jgalat/remote-app)
+- Tooot-app's [app](https://github.com/tooot-app/app)
+- Expensify's [App](https://github.com/Expensify/App)
+- Status-im's [status-mobile](https://github.com/status-im/status-mobile)
+- Notesnook's [mobile](https://github.com/streetwriters/notesnook/tree/master/apps/mobile)
+- Bluesk's [social-app](https://github.com/bluesky-social/social-app)
+- 4twiggers's [realremote-front](https://github.com/4TWIGGERS/realremote-front)
+- iNaturalist's [mobile app](https://github.com/inaturalist/iNaturalistReactNative)
+- Showtime-xyz's [showtime-frontend](https://github.com/showtime-xyz/showtime-frontend)
+- Shootismoke's [mobile-app](https://github.com/shootismoke/mobile-app)
+- Kwsong0113's [imagine](https://github.com/kwsong0113/imagine)
+- Bndkt's [sharemystack](https://github.com/bndkt/sharemystack)
 
 # 💬 Discords And Slacks
 
@@ -187,6 +187,5 @@ _(does anyone actually use them to connect with other devs? if you have a good e
 # 🥽Everything Else Section
 
 - [Meetup’s page of events tagged “react-native”](https://www.meetup.com/topics/react-native/)
-- [Oscar Franco’s React Native Hitchhiker’s Guide](https://www.notion.so/bf0aa5ee5fd64aed8cdd776cba6f9b97?pvs=21)
 - [React Native Community Facebook Group](https://www.facebook.com/groups/react.native.community) _(it looks like it’s in a really bad shape?)_
 - [HackerNews](https://hn.algolia.com/?q=react-native) _(…because I guess why not?)_
