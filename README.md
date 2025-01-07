@@ -7,8 +7,8 @@
 <a href="https://github.com/kelset?tab=followers">
 <img alt="follow me on github" src="https://img.shields.io/github/followers/kelset?label=Follow%20%40kelset&style=social" />
 </a>
-<a href="https://twitter.com/kelset">
-<img alt="follow me on twitter" src="https://img.shields.io/twitter/follow/kelset?label=Follow%20%40kelset&style=social" />
+<a href="https://bsky.app/profile/kelset.dev">
+<img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=flat" alt="Follow me on bsky" >
 </a>
 
 - [🐦 Twitter](#-twitter)
